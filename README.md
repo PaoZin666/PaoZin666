@@ -37,6 +37,9 @@
   <a href="https://doceria-negobom.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Doceria%20NegoBom-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
+  <a href="https://vax-health.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/vax%20health-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
   <a href="https://berserk-eclipse.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Berserk%20V2-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
