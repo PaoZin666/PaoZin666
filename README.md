@@ -43,4 +43,7 @@
   <a href="https://berserk-eclipse.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Berserk%20V2-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
+  <a href="https://helpm.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/helpm-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
 </div>
