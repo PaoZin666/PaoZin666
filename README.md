@@ -31,13 +31,13 @@
 ## Projetos!
 
 <div align="center">
-  <a href="https://paozin666.github.io/projeto-mario/" target="_blank">
+  <a href="https://super-mario-project.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Mario%20Project-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
   <a href="https://doceria-negobom.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Doceria%20NegoBom-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href="https://paozin666.github.io/berserk-v2/" target="_blank">
+  <a href="https://berserk-eclipse.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Berserk%20V2-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
